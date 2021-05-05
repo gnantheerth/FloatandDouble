@@ -18,6 +18,7 @@ public class Main {
         System.out.println(myIntvalue);
         System.out.println(myFloatvalue);
         System.out.println(myDoublevalue);
+        // change
 
 
     }
